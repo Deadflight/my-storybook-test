@@ -32,3 +32,4 @@ export var Button = function (_a) {
         : "storybook-button--secondary";
     return (_jsx("button", __assign({ type: "button", className: ["storybook-button", "storybook-button--".concat(size), mode].join(" "), style: { backgroundColor: backgroundColor } }, props, { children: label })));
 };
+export default Button;

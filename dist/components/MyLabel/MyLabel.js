@@ -17,3 +17,4 @@ export var MyLabel = function (_a) {
             color: fontColor,
         } }, { children: allCaps ? label.toUpperCase() : label })));
 };
+export default MyLabel;
