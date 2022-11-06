@@ -1,4 +1,4 @@
-export { MyLabel } from "./components/MyLabel/MyLabel";
+export { MyLabel } from "./components/MyLabel";
 export { Header } from "./stories/Header";
 export { Page } from "./stories/Page";
 
